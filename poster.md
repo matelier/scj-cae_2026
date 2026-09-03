@@ -1,18 +1,18 @@
 ---
 marp: true
-theme: poster
+theme: poster1p
 paginate: false
 backgroundSize: cover
 backgroundPosition: center
 ---
 
-<!-- _backgroundImage: "linear-gradient(180deg, rgba(5,11,28,0.30), rgba(5,11,28,0.86)), url('bg_main.png')" -->
+<!-- _backgroundImage: "linear-gradient(180deg, rgba(20,11,6,0.45), rgba(20,11,6,0.90)), url('bg_warm.png')" -->
 
 <div class="wrap">
 
-<div class="eyebrow">
+<div class="top">
 <span class="badge">公開シンポジウム</span>
-<span class="badgeline"></span>
+<span class="topline"></span>
 </div>
 
 <div class="hosts">
@@ -31,63 +31,58 @@ backgroundPosition: center
 
 <div class="kicker">SIMULATION × DATA × AI</div>
 
-<h1 class="title">計算科学と産業を結ぶ<br><span class="hl">AI時代の人材循環型</span><br>エコシステムのあり方</h1>
+<h1 class="title">計算科学と産業を結ぶ<span class="hl">AI時代の</span><br><span class="hl">人材循環型エコシステム</span>のあり方</h1>
 
 <p class="subtitle">現状と課題、そして将来への展望を、6つの視点と総合討論で描く。</p>
 
-<div class="factbox">
-<dl class="fact">
-<dt>日 時</dt>
-<dd><span class="big">2026年11月6日（金）13:00 – 17:30</span><br><span class="note">令和8年</span></dd>
-<dt>会 場</dt>
-<dd>日本学術会議 講堂<span class="note">（東京都港区六本木 7-22-34）</span><br><span class="note">ハイブリッド開催（会場＋オンライン）</span></dd>
-<dt>参 加</dt>
-<dd><span class="free">参加費無料</span>一般参加可・事前申し込み必要</dd>
-</dl>
+<div class="strip">
+<div class="cell">
+<span class="lbl">日 時</span>
+<span class="v">2026年11月6日（金）</span>
+<span class="v sm">13:00 – 17:30</span>
+<span class="n">令和8年</span>
 </div>
+<div class="cell">
+<span class="lbl">会 場</span>
+<span class="v sm">日本学術会議 講堂</span>
+<span class="n">東京都港区六本木 7-22-34<br>ハイブリッド開催（会場＋オンライン）</span>
+</div>
+<div class="cell">
+<span class="lbl">参 加</span>
+<span class="v sm"><span class="free">参加費無料</span></span>
+<span class="n">一般参加可・事前申し込み必要<br>下記URL・QRコードよりお申し込み</span>
+</div>
+</div>
+
+<div class="cols">
+
+<div class="left">
 
 <div class="aim">
-<h2><span>◆</span>開催趣旨</h2>
+<h3 class="sec"><span>◆</span>開催趣旨</h3>
 <p>計算科学シミュレーションを取り巻く環境は、データサイエンスや人工知能（AI）の急速な進展・普及により、特にこの数年で大きく様変わりしている。本シンポジウムでは、国産ソフトウェア開発、人材育成、地域まで含めた幅広い産業における計算科学シミュレーションの活用、データやAIの利用といった複数の視点から、現状と課題、将来への期待や展望などについて講演が行なわれる。また、講演の内容を踏まえて、計算科学と産業を結ぶ <b>“AI時代の人材循環型エコシステム”</b> のあり方、その構築のための仕組み作りや課題について議論を行なう。</p>
-<p class="ref">参考文献：見解「計算科学を基盤とした産業競争力強化を推進する人材育成とエコシステムのあり方」<br><a>https://www.scj.go.jp/ja/info/kohyo/pdf/kohyo-25-k230901.pdf</a></p>
-</div>
-
-<div class="topics">
-<span>国産ソフトウェア開発</span><span>人材育成</span><span>地域産業</span><span>材料データ</span><span>シミュレーション×AI</span><span>次世代情報基盤</span>
+<p class="ref">参考文献：見解「計算科学を基盤とした産業競争力強化を推進する人材育成とエコシステムのあり方」<a>https://www.scj.go.jp/ja/info/kohyo/pdf/kohyo-25-k230901.pdf</a></p>
 </div>
 
 <div class="spacer"></div>
 
 <div class="cta">
-<div>
 <span class="lbl">REGISTRATION ／ 参加申込</span>
-<span class="msg">一般参加可・参加費無料 ／ 事前申し込みが必要です</span>
+<span class="qrcard"><img src="qr.png"></span>
 <a class="url">https://forms.gle/RW62Z2MhYfr5kRng8</a>
-<span class="urlnote">右のQRコードからもお申し込みいただけます。</span>
-</div>
-<div class="qrbox">
-<div class="qrcard"><img src="qr.png"></div>
-<span>参加申込フォーム</span>
-</div>
+<span class="note">参加費無料・事前申し込み制<br>QR／URLよりお申し込みください</span>
 </div>
 
 </div>
 
----
+<div class="right">
 
-<!-- _backgroundImage: "linear-gradient(180deg, rgba(5,11,28,0.55), rgba(5,11,28,0.90)), url('bg_sub.png')" -->
-
-<div class="wrap">
-
-<div class="p2head">
-<h1>次 第 <span>／ PROGRAM</span></h1>
-<div class="meta">2026年11月6日（金）13:00 – 17:30<br>日本学術会議 講堂（ハイブリッド開催）</div>
+<div class="phead">
+<h2>次 第 <span>／ PROGRAM</span></h2>
 </div>
 <div class="rule"></div>
 
-<div class="mc">
-<b>総合司会：</b>大出　真知子（日本学術会議連携会員、国立研究開発法人物質・材料研究機構 構造材料研究拠点 設計・創造分野組織熱力学グループ主任研究員）
-</div>
+<div class="mc"><b>総合司会：</b>大出　真知子（日本学術会議連携会員、国立研究開発法人物質・材料研究機構 構造材料研究拠点 設計・創造分野組織熱力学グループ主任研究員）</div>
 
 <div class="row">
 <div class="t">13:00 – 13:05</div>
@@ -101,7 +96,7 @@ backgroundPosition: center
 
 <div class="part">
 <span class="tag">第 1 部</span>
-<span class="txt">計算科学の産業利用 ─ 現状・課題・今後への期待と展望　〜様々なコミュニティからの視点〜</span>
+<span class="txt">計算科学の産業利用 ─ 現状・課題・今後への期待と展望</span>
 </div>
 
 <div class="row">
@@ -138,7 +133,7 @@ backgroundPosition: center
 
 <div class="part">
 <span class="tag">第 2 部</span>
-<span class="txt">総合討論 ─ 計算科学と産業を結ぶAI時代の人材循環型エコシステムのあり方</span>
+<span class="txt">総合討論 ─ AI時代の人材循環型エコシステムのあり方</span>
 </div>
 
 <div class="panel">
@@ -151,9 +146,8 @@ backgroundPosition: center
 <div class="c"><span class="ttl">閉会の辞</span><span class="who"><b>金田　千穂子</b>日本学術会議連携会員、東北大学国際集積エレクトロニクス研究開発センター教授</span></div>
 </div>
 
-<div class="p2foot">
-<span class="ttl">計算科学と産業を結ぶAI時代の<br>人材循環型エコシステムのあり方</span>
-<span class="reg">参加費無料 ／ 事前申し込み必要<br><b>https://forms.gle/RW62Z2MhYfr5kRng8</b></span>
+</div>
+
 </div>
 
 </div>
