@@ -61,11 +61,13 @@ backgroundPosition: center
 <div class="cta">
 <div>
 <span class="lbl">REGISTRATION ／ 参加申込</span>
-<span class="msg">一般参加可・参加費無料 ／ 事前申し込みが必要です<small>申込URLは後日公開予定。QRコードも用意いたします。</small></span>
+<span class="msg">一般参加可・参加費無料 ／ 事前申し込みが必要です</span>
+<a class="url">https://forms.gle/RW62Z2MhYfr5kRng8</a>
+<span class="urlnote">右のQRコードからもお申し込みいただけます。</span>
 </div>
-<div class="qr">
-<b>参加申込</b>
-QRコード<br>掲載予定
+<div class="qrbox">
+<div class="qrcard"><img src="qr.png"></div>
+<span>参加申込フォーム</span>
 </div>
 </div>
 
@@ -150,8 +152,8 @@ QRコード<br>掲載予定
 </div>
 
 <div class="p2foot">
-<span class="ttl">公開シンポジウム「計算科学と産業を結ぶAI時代の人材循環型エコシステムのあり方」</span>
-<span>参加費無料 ／ 事前申し込み必要</span>
+<span class="ttl">計算科学と産業を結ぶAI時代の<br>人材循環型エコシステムのあり方</span>
+<span class="reg">参加費無料 ／ 事前申し込み必要<br><b>https://forms.gle/RW62Z2MhYfr5kRng8</b></span>
 </div>
 
 </div>

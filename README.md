@@ -16,5 +16,7 @@ npx @marp-team/marp-cli poster.md --images png --image-scale 2
 Chromium が見つからない場合は `CHROME_PATH` を指定してください。
 
 ## 差し替えポイント
-- 申込QRコード：`poster.md` の `<div class="qr">` を `<img src="qr.png">` に置換
+- 申込QRコード：`qr.png`（https://forms.gle/RW62Z2MhYfr5kRng8 ／ 白フチ付きに再生成済み）
 - 配色：`theme/poster.css` の `:root` の `--navy` / `--cyan` / `--gold`
+
+- 申込URL：`poster.md` 内の `https://forms.gle/RW62Z2MhYfr5kRng8`（表面CTAと裏面フッターの2箇所）
