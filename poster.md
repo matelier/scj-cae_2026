@@ -23,7 +23,7 @@ backgroundPosition: center
 <span class="horg">日本学術会議 総合工学委員会・機械工学委員会合同<span class="thin">／</span>計算科学シミュレーションと工学設計分科会</span>
 </span>
 <span class="hlbl">共 催</span>
-<span class="hval hsm"><span>一般社団法人日本機械学会</span><span>一般社団法人日本応用数理学会</span><span>一般社団法人日本計算工学会（予定）</span><span>一般社団法人日本シミュレーション学会</span><span>一般社団法人可視化情報学会</span><span>日本計算数理工学会</span><span>国際計算力学連合</span><span>アジア太平洋計算力学連合</span><span>日本計算力学連合</span><span>CAE懇話会</span></span>
+<span class="hval hsm"><span>一般社団法人日本機械学会</span><span>一般社団法人日本応用数理学会</span><span>一般社団法人日本計算工学会</span><span>一般社団法人日本シミュレーション学会</span><span>一般社団法人可視化情報学会</span><span>日本計算数理工学会</span><span>国際計算力学連合</span><span>アジア太平洋計算力学連合</span><span>日本計算力学連合</span><span>CAE懇話会</span></span>
 <span class="hlbl">後 援</span>
 <span class="hval hsm"><span>公益社団法人日本自動車技術会</span></span>
 </div>
